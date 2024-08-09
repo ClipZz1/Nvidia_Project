@@ -30,6 +30,7 @@ The core of this project involves a machine learning model trained to classify h
    - cd Nvidia_Project
 2. Install required libraries:
    - pip install tensorflow opencv-python
+   - pip install torch torchvision torchaudio
 3. - Run the Python script: python3 gesture_chatbot.py
 4. Interaction: Ensure your camera is set up correctly and interact with the bot using hand gestures.
 5. Deploy on Jetson Nano: Follow Jetson Nano-specific setup for optimal performance.

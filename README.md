@@ -21,17 +21,21 @@ The core of this project involves a machine learning model trained to classify h
 - PyTorch
 - Jetson Nano-specific libraries for handling hardware acceleration
 - Webcam
+- Model
 
 # Steps
 
-1. - Clone the repository: git clone https://github.com/yourusername/Nvidia_Project.git
+1. Install the model from this google drive link or the one above "model.txt"
+   - 
+2. - Clone the repository: git clone https://github.com/yourusername/Nvidia_Project.git
    - cd Nvidia_Project
-2. Install required libraries:
+   - Add 'resnet18.onnx' to the folder with it
+3. Install required libraries:
 - pip install tensorflow opencv-python
 - pip install torch torchvision torchaudio
-3. Set the model directory
-4. - Run the Python script: python3 project.py
-5. Interaction: Ensure your camera is set up correctly and interact with the bot using hand gestures.
-6. Deploy on Jetson Nano: Follow Jetson Nano-specific setup for optimal performance.
+4. Set the model directory
+5. - Run the Python script: python3 project.py
+6. Interaction: Ensure your camera is set up correctly and interact with the bot using hand gestures.
+7. Deploy on Jetson Nano: Follow Jetson Nano-specific setup for optimal performance.
 
 [View a video explanation here](https://youtu.be/qsvBHe-yud4)

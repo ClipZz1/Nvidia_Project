@@ -34,4 +34,4 @@ The core of this project involves a machine learning model trained to classify h
 5. Interaction: Ensure your camera is set up correctly and interact with the bot using hand gestures.
 6. Deploy on Jetson Nano: Follow Jetson Nano-specific setup for optimal performance.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/qsvBHe-yud4)

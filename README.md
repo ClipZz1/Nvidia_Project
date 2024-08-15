@@ -25,7 +25,7 @@ The core of this project involves a machine learning model trained to classify h
 
 # Steps
 
-1. Install the model from this google drive link or the one above "model.txt"
+1. Install the model from this google drive [link](https://drive.google.com/file/d/1TUnmILDm2BhUsQuGpdMcR9JT2TTwYN-F/view?usp=sharing) or the one above "model.txt"
    - 
 2. - Clone the repository: git clone https://github.com/yourusername/Nvidia_Project.git
    - cd Nvidia_Project

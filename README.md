@@ -2,7 +2,8 @@
 
 This project is an AI-based Gesture-Based Survey/Feedback System that detects hand gestures—specifically, thumbs up, thumbs down, or neutral—to gather feedback. It helps people take surveys with just putting their thumb up or down, running the simple interface. It provides a simple and intuitive interface where users can give feedback by using hand gestures. This project leverages NVIDIA’s Jetson Nano for real-time gesture detection using a trained AI model.
 
-![what it should look like](direct image link here)
+![what it should look like](![Screenshot (16)](https://github.com/user-attachments/assets/b1a0eccb-cb4f-4b62-bd38-5de4a7dd60fa))
+
 
 ## The Algorithm
 
